@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=314pdinh&label=Profile%20views&color=0e75b6&style=flat" alt="314pdinh" /> </p>
 
-- 🔭 I’m currently working on **AirBnb Clone**
+- 🔭 I’m currently working on **Capstone Project CouchMeOutside**
 
 - 🌱 I’m currently learning **React and Redux**
 
